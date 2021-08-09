@@ -1,2 +1,1 @@
-# Kade-Engine-Week-7-Project
-Project to port week 7 to kade engine
+this mod has been made purely for entertainment purposes. it will be taken down when the official week 7 is downloadable from ninjamuffin.
